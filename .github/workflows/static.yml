@@ -1,0 +1,181 @@
+# Simple workflow for deploying static content to GitHub Pages
+name: Deploy static content to Pages
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  # Single deploy job since we're just deploying
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: rathana
+        uses: phon
+      - name: httpsrathanaphonwebsitcoin.appspot.com
+        uses: actions/configure-pages@v3
+      - name: httpsrathanaphonwebsitcoin.appspot.com
+        uses: actions/upload-pages-artifact@v1
+        with:
+          # Upload entire repository
+          path: '.'
+      - name: Deploy to GitHub httpsrathanaphonwebsitcoin.appspot.com
+        id: deployment
+        uses: actions/deploy-pages@v2
+        
+<body/>
+
+</body>
+
+dependencies {
+
+  ...
+
+  implementation ("com.android.insatalreferrer:intstallteferrer:2.2")<head></head><textarea id="id" name="name" rows="5" cols="50"></textarea><input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label>
+
+  <html></html>
+
+  <body style="background-color:powderblue;"></body>
+
+  <table></table> <html></html>
+
+                     
+
+                      <tr></tr>
+
+                    <h1></h1>
+
+                 <h4></h4>
+
+                 <i><i>
+
+                 <style></style>
+
+              <button>Click Me!</button>
+
+           <html></html> httpsrathanaphon.Website.co.in.
+
+           analytics 4 <body style="background-color:powderblue;"></body>
+
+           
+
+           
+
+  <style>body{
+
+  background-color:powderblue;
+
+}</style><script></script> 
+  "project_info": {
+
+    "project_number": "244145628679",
+
+    "project_id": "httpsrathanaphonwebsitcoin",
+
+    "storage_bucket": "httpsrathanaphonwebsitcoin.appspot.com"
+
+  },
+
+  "client": [
+
+    {
+
+      "client_info": {
+
+        "mobilesdk_app_id": "1:244145628679:android:a7f10297db1a854b396ca2",
+
+        "android_client_info": {
+
+          "package_name": "httpsrathanaphon.website.co"
+
+        }
+
+      },
+
+      "oauth_client": [
+
+        {
+
+          "client_id": "244145628679-5lpa61gqs6naujcec6om73v6hbhrlpq7.apps.googleusercontent.com",
+
+          "client_type": 3
+
+        }
+
+      ],
+
+      "api_key": [
+
+        {
+
+          "current_key": "AIzaSyAZwzbBslhqIFIc2c2-wJRru9PRcwpeu7I"
+
+        }
+
+      ],
+
+      "services": {
+
+        "appinvite_service": {
+
+          "other_platform_oauth_client": [
+
+            {
+
+              "client_id": "244145628679-5lpa61gqs6naujcec6om73v6hbhrlpq7.apps.googleusercontent.com",
+
+              "client_type": 3
+<!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N99WQPH"
+
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+            }
+
+          ]
+
+        }
+
+      }
+      <!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-N99WQPH');</script>
+
+<!-- End Google Tag Manager -->
+
+    }
+
+  ],
+
+  "configuration_version": "1"
+
+}
