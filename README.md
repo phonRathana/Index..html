@@ -2,7 +2,7 @@
 Business httpsrathanaphon.websiet.co.in
 <!-- Google tag (gtag.js) -->
 
-    "project_id": G-P08HKS4NF3"httpsrathanaphone.website.co",
+    "project_id":"httpsrathanaphone.website.co",
 
     "storage_bucket":"httpsrathanaphon.website.co.appspot.com"
 
