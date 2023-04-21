@@ -29,8 +29,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: rathana
-        uses: phon
+      - name: ${{rathana}}
+        uses: ${{ phon }}
       - name: httpsrathanaphonwebsitcoin.appspot.com
         uses: actions/configure-pages@v3
       - name: httpsrathanaphonwebsitcoin.appspot.com
@@ -41,26 +41,18 @@ jobs:
       - name: Deploy to GitHub httpsrathanaphonwebsitcoin.appspot.com
         id: deployment
         uses: actions/deploy-pages@v2
-        
 <body/>
 
 </body>
-
 dependencies {
-
-  ...
-
-  implementation ("com.android.insatalreferrer:intstallteferrer:2.2")<head></head><textarea id="id" name="name" rows="5" cols="50"></textarea><input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label>
-
-  <html></html>
+implementation ("com.android.insatalreferrer:intstallteferrer:2.2")<head></head><textarea id="id" name="name" rows="5" cols="50"></textarea><input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label>
+<html></html>
 
   <body style="background-color:powderblue;"></body>
 
   <table></table> <html></html>
 
-                     
-
-                      <tr></tr>
+                        <tr></tr>
 
                     <h1></h1>
 
@@ -75,19 +67,27 @@ dependencies {
            <html></html> httpsrathanaphon.Website.co.in.
 
            analytics 4 <body style="background-color:powderblue;"></body>
+<html></html>
 
-           
+  <body style="background-color:powderblue;"></body>
 
-           
+  <table></table> <html></html>
+                        <tr></tr>
 
-  <style>body{
+                    <h1></h1>
 
-  background-color:powderblue;
+                 <h4></h4>
 
-}</style><script></script> 
-  "project_info": {
+                 <i><i>
 
-    "project_number": "244145628679",
+                 <style></style>
+
+              <button>Click Me!</button>
+
+           <html></html> httpsrathanaphon.Website.co.in.
+
+           analytics 4 <body style="background-color:powderblue;"></body>
+project_number": "244145628679",
 
     "project_id": "httpsrathanaphonwebsitcoin",
 
@@ -151,31 +151,162 @@ dependencies {
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <!-- End Google Tag Manager (noscript) -->
-            }
+            
 
-          ]
+          
+           
+           
 
-        }
 
-      }
-      <!-- Google Tag Manager -->
 
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 
-})(window,document,'script','dataLayer','G-P08HKS4NF3');</script>
 
-<!-- End Google Tag Manager -->
 
-    }
 
-  ],
 
-  "configuration_version": "1"
+ 
 
-}
+
+
+
+                     
+
+                
+
+               
+
+              
+
+               
+
+              
+
+        
+
+          
+
+           
+                     
+
+                      
+
+                 
+
+              
+
+           
+
+               
+
+             
+
+         
+
+          
+
+           
+
+           
+
+
+
+ 
+
+
+
+
+   
+
+  
+
+  
+
+
+
+
+
+  
+
+     
+
+      
+
+      
+
+       
+
+      
+
+    
+
+  
+
+       
+
+    
+
+        
+
+        
+
+ 
+
+     
+
+ 
+
+       
+
+     
+
+ 
+
+  
+
+     
+
+        
+
+           
+
+      
+
+           
+
+
+
+
+
+
+
+         
+
+          
+
+     
+
+      
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
