@@ -1,6 +1,56 @@
 # This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
+mini batches
 
+training data[kik mini batch_size]
+
+for k in xrange(0, n, mini_batch_size)] for mini batch in mini_batches:
+
+self.update_mini_batch(mini_batch, eta)
+
+if test_data:
+
+print "Epoch (0) (1) (2)".format( 1. self.evaluate(test_data), n_test)
+
+elset
+
+print "Epoch (0) complete".format(1) def update_mini_batch(self, mini batch, eta):
+
+nabla_b [np.zeros(b.shape) for b in self.biases]
+
+nabla_w [np.zeros(w.shape) for w in self.weights] for x, y in mini_batch:
+
+delta_nabla_b, delta_nabla_w= self.backprop(x, y)
+
+nabla_b [nb dnb for nb, dnb in zip (nabla_b, delta_nabla_b)]
+
+nabla_w= [nw dnw for nw, dnw in zip (nabla_w, delta_nabla_w)] self.weights [w (eta/len
+
+(mini_batch))-nw
+
+for w, nw in zip(self.weights, nabla_w)] self.biases = [b (eta/len (mini_batch)) nb
+
+for b, nb in zip(self.biases, nabla_b)] def backprop(self, x, y): nabla_b = [np.zeros(b.shape) for b
+
+in self.biases]
+
+nabla_w= [np.zeros(w.shape) for w in self.weights]
+
+#feedforward activation = x
+
+activations = [x] # list to store all the activations, layer by layer zs = [] # list to store all the z
+
+vectors, layer by layer
+
+for b, w in zip (self.biases, self.weights): z = np.dot (w, activation)+b
+
+zs.append(z)
+
+activation = sigmoid(z) activations.append(activation
+
+# backward pass
+
+delta = self.cost_derivative (activations [-1], y) * \
 name: Node.js CI m865_9863a_64_q_Natv
 
 on:
@@ -10,9 +60,9 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build:QP1A.190711.020 release-keys
+  build:QP1A.190711.020 release-keys($1) (2$)
 
-    runs-on:
+    runs-on
 
     strategy:
       matrix:
@@ -60,3 +110,42 @@ Available Options:
 Minimum 1 day. Maximum 90 days unless changed from the repository settings page.
 
     retention-days: # optional
+    {
+
+  "type": "service_account",
+
+  "project_id": "httpshttpsrathanaphonwebsiteco",
+
+  "private_key_id": "24bbdc11fe8ca190c4eeb2ffab90560be6662206",
+  ,
+
+  "client_id": "102903682138879469571",
+
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+
+  "token_uri": "https://oauth2.googleapis.com/token",
+
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fwk93%40httpshttpsrathanaphonwebsiteco.iam.gserviceaccount.com"
+
+}
+sigmoid prime (zs [-1]) nabla_b[-1] = delta
+
+nabla_w[-1] = np.dot (delta, activations [-2].transpose()) for 1in xrange (2, self.num_layers):
+
+z = zs[-1]
+
+sp= sigmoid_prime(z)
+
+delta = np.dot (self.weights [-1+1].transpose(), delta) sp nabla_b[-1] = delta nabla_w[-1] = np. dot
+
+(delta, activations [-1-1).transpose())
+
+return (nabla_b, nabla_w) def evaluate(self, test_data):
+
+test_results = [(np.argmax (self.feedforward(x)),
+
+for (x, y) in test_data] y)
+
+return sum(int(x == y) for (x, y) in test results) def cost_derivative (self, output_activations, y):

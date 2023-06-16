@@ -2,7 +2,8 @@
 <head>
 <meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(
-Today'sData<title> </haed> <body> <body> </body> </body> rathanaphon29@gmail.com (<head></head>): <!-- Google tag (gtag.js) --> <script async src="https://httpsrathanaphon.Website.co.inhttps://www.googletagmanager.com/gtag/js?id=AW-10919038707 script> <script> window.dataLayer = window.dataLayer || []; gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-10919038707'); </script> https://cdn.a
+Today'sData<title>Data<title>
+</haed>
 google tag manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new date().gettime(),event:'gtm.js'});var f=d.getelementsbytagname(s)[0],
